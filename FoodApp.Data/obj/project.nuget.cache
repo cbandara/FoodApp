@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5ciuS+b2Zoi61Cq555mYham3hY/obAc/VZ/GmFetNv/FJeYlAOz1+HYDPWHoCca6JU+oMm0GKxCfYu4CpDuiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\charu\\Development\\FoodApp\\FoodApp.Data\\FoodApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\charu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\charu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

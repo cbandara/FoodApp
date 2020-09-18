@@ -1,0 +1,9 @@
+C:\Users\charu\Development\FoodApp\FoodApp.Core\bin\Debug\netstandard2.0\FoodApp.Core.deps.json
+C:\Users\charu\Development\FoodApp\FoodApp.Core\bin\Debug\netstandard2.0\FoodApp.Core.dll
+C:\Users\charu\Development\FoodApp\FoodApp.Core\bin\Debug\netstandard2.0\FoodApp.Core.pdb
+C:\Users\charu\Development\FoodApp\FoodApp.Core\obj\Debug\netstandard2.0\FoodApp.Core.csprojAssemblyReference.cache
+C:\Users\charu\Development\FoodApp\FoodApp.Core\obj\Debug\netstandard2.0\FoodApp.Core.AssemblyInfoInputs.cache
+C:\Users\charu\Development\FoodApp\FoodApp.Core\obj\Debug\netstandard2.0\FoodApp.Core.AssemblyInfo.cs
+C:\Users\charu\Development\FoodApp\FoodApp.Core\obj\Debug\netstandard2.0\FoodApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\charu\Development\FoodApp\FoodApp.Core\obj\Debug\netstandard2.0\FoodApp.Core.dll
+C:\Users\charu\Development\FoodApp\FoodApp.Core\obj\Debug\netstandard2.0\FoodApp.Core.pdb

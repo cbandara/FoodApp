@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp", "FoodApp\FoodApp.csproj", "{9E495E3F-D936-4D30-B1A0-CD406A35F23B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp.Core", "FoodApp.Core\FoodApp.Core.csproj", "{12C01E68-A014-415E-88F4-F456A2A38B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodApp.Data", "FoodApp.Data\FoodApp.Data.csproj", "{32D8F7E0-46F3-441D-881A-9BE006511C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{9E495E3F-D936-4D30-B1A0-CD406A35F23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E495E3F-D936-4D30-B1A0-CD406A35F23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E495E3F-D936-4D30-B1A0-CD406A35F23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C01E68-A014-415E-88F4-F456A2A38B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C01E68-A014-415E-88F4-F456A2A38B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C01E68-A014-415E-88F4-F456A2A38B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C01E68-A014-415E-88F4-F456A2A38B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32D8F7E0-46F3-441D-881A-9BE006511C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D8F7E0-46F3-441D-881A-9BE006511C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D8F7E0-46F3-441D-881A-9BE006511C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D8F7E0-46F3-441D-881A-9BE006511C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
