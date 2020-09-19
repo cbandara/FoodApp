@@ -25,7 +25,7 @@ namespace FoodApp
         public void ConfigureServices(IServiceCollection services)
             
         {
-            services.AddSingleton<IRestuarantData, InMemoryRestaurantData>();
+            services.AddSingleton<IRestaurantData, InMemoryRestaurantData>();
             services.AddRazorPages();
         }
 

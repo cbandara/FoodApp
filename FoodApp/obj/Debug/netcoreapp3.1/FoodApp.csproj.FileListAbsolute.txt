@@ -356,3 +356,5 @@ C:\Users\charu\Development\FoodApp\FoodApp\bin\Debug\netcoreapp3.1\FoodApp.Core.
 C:\Users\charu\Development\FoodApp\FoodApp\bin\Debug\netcoreapp3.1\FoodApp.Data.dll
 C:\Users\charu\Development\FoodApp\FoodApp\bin\Debug\netcoreapp3.1\FoodApp.Data.pdb
 C:\Users\charu\Development\FoodApp\FoodApp\bin\Debug\netcoreapp3.1\FoodApp.Core.pdb
+C:\Users\charu\Development\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\charu\Development\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs

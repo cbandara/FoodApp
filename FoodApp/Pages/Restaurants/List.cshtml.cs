@@ -14,7 +14,7 @@ namespace FoodApp.Pages.Restaurants
     public class ListModel : PageModel
     {
         private readonly IConfiguration config;
-        private readonly IRestuarantData restaurantData;
+        private readonly IRestaurantData restaurantData;
 
         [BindProperty(SupportsGet = true)]
         public string SearchTerm { get; set; }
@@ -22,7 +22,7 @@ namespace FoodApp.Pages.Restaurants
         public string Message { get; set; }
         public IEnumerable<Restaurant> Restaurants { get; set; }
 
-        public ListModel(IConfiguration config, IRestuarantData restaurantData)
+        public ListModel(IConfiguration config, IRestaurantData restaurantData)
         {
             this.config = config;
             this.restaurantData = restaurantData;

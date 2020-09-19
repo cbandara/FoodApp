@@ -7,11 +7,12 @@ using System.Linq;
 
 namespace FoodApp.Data
 {
-    public interface IRestuarantData
+    public interface IRestaurantData
     {
         IEnumerable<Restaurant> GetRestaurantsByName(string name);
+        Restaurant GetById(int id);
     }
-    public class InMemoryRestaurantData : IRestuarantData
+    public class InMemoryRestaurantData : IRestaurantData
     {
         readonly List<Restaurant> restaurants;
         public InMemoryRestaurantData()
@@ -23,6 +24,12 @@ namespace FoodApp.Data
                 new Restaurant { Id = 3, Name = "India Garden", Location="Illinois", Cuisine=CuisineType.Indian},
             };
         }
+
+        public Restaurant GetById(int id)
+        {
+            return restaurants.SingleOrDefault(r => r.Id == id);
+        }
+
         public IEnumerable<Restaurant> GetRestaurantsByName(string name = null)
         {
             return from r in restaurants
