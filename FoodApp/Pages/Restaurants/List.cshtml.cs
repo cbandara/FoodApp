@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using FoodApp.Core;
 using FoodApp.Data;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Configuration;
@@ -14,6 +15,9 @@ namespace FoodApp.Pages.Restaurants
     {
         private readonly IConfiguration config;
         private readonly IRestuarantData restaurantData;
+
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
 
         public string Message { get; set; }
         public IEnumerable<Restaurant> Restaurants { get; set; }
@@ -26,7 +30,7 @@ namespace FoodApp.Pages.Restaurants
         public void OnGet()
         {
             Message = config["Message"];
-            Restaurants = restaurantData.GetAll();
+            Restaurants = restaurantData.GetRestaurantsByName(SearchTerm);
         }
     }
 }
