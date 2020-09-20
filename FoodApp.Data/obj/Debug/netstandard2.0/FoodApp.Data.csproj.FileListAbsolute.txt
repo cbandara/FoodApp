@@ -10,3 +10,15 @@ C:\Users\charu\Development\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp
 C:\Users\charu\Development\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.csproj.CopyComplete
 C:\Users\charu\Development\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.dll
 C:\Users\charu\Development\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.pdb
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\bin\Debug\netstandard2.0\FoodApp.Data.deps.json
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\bin\Debug\netstandard2.0\FoodApp.Data.dll
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\bin\Debug\netstandard2.0\FoodApp.Data.pdb
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\bin\Debug\netstandard2.0\FoodApp.Core.dll
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\bin\Debug\netstandard2.0\FoodApp.Core.pdb
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.csprojAssemblyReference.cache
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.AssemblyInfoInputs.cache
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.AssemblyInfo.cs
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.csproj.CopyComplete
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.dll
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp.Data\obj\Debug\netstandard2.0\FoodApp.Data.pdb

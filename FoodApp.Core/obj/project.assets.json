@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\charu\\.nuget\\packages\\": {}
+    "C:\\Users\\dbandara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charu\\Development\\FoodApp\\FoodApp.Core\\FoodApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\dbandara\\Development\\dotnet\\FoodApp\\FoodApp.Core\\FoodApp.Core.csproj",
       "projectName": "FoodApp.Core",
-      "projectPath": "C:\\Users\\charu\\Development\\FoodApp\\FoodApp.Core\\FoodApp.Core.csproj",
-      "packagesPath": "C:\\Users\\charu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charu\\Development\\FoodApp\\FoodApp.Core\\obj\\",
+      "projectPath": "C:\\Users\\dbandara\\Development\\dotnet\\FoodApp\\FoodApp.Core\\FoodApp.Core.csproj",
+      "packagesPath": "C:\\Users\\dbandara\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dbandara\\Development\\dotnet\\FoodApp\\FoodApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\charu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dbandara\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
