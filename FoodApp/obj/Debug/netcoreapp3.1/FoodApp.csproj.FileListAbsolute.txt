@@ -719,3 +719,4 @@ C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\sta
 C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\staticwebassets\FoodApp.StaticWebAssets.xml
 C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\FoodApp.genruntimeconfig.cache
 C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
+C:\Users\dbandara\Development\dotnet\FoodApp\FoodApp\obj\Debug\netcoreapp3.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs

@@ -11,6 +11,8 @@ namespace FoodApp.Data
     {
         IEnumerable<Restaurant> GetRestaurantsByName(string name);
         Restaurant GetById(int id);
+        Restaurant Update(Restaurant updatedRestaurant);
+        int Commit();
     }
     public class InMemoryRestaurantData : IRestaurantData
     {
@@ -28,6 +30,24 @@ namespace FoodApp.Data
         public Restaurant GetById(int id)
         {
             return restaurants.SingleOrDefault(r => r.Id == id);
+        }
+
+        public Restaurant Update(Restaurant updatedRestaurant)
+        {
+            var restaurant = restaurants.SingleOrDefault(r => r.Id == updatedRestaurant.Id);
+            if (restaurant != null)
+            {
+                restaurant.Name = updatedRestaurant.Name;
+                restaurant.Location = updatedRestaurant.Location;
+                restaurant.Cuisine = updatedRestaurant.Cuisine;
+            }
+
+            return restaurant;
+        }
+
+        public int Commit()
+        {
+            return 0;
         }
 
         public IEnumerable<Restaurant> GetRestaurantsByName(string name = null)

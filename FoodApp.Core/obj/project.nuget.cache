@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Sd7kXYUu83pseDbN8j2v/NtNb/83thajQgOfrMkrkQozUERryD3EcA0H0afmnGH9Z0KnOp3ltjNdZP5vmLV+AA==",
+  "dgSpecHash": "yY/Yw/nK59qYV79buU2IJG40BC7f9xWsviapa1+XALWrJewGnZIYkku+ctyd0ZDQK6fPkwgNw3HZT0D1JhnKHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\dbandara\\Development\\dotnet\\FoodApp\\FoodApp.Core\\FoodApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dbandara\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\dbandara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\dbandara\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\dbandara\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
